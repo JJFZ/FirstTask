@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstTask</string>
+    <string name="app_text">Premier programme</string>
+    <string name="app_saludo">Bonjour à tous</string>
+    <string name="app_button">Entrer</string>
+</resources>
